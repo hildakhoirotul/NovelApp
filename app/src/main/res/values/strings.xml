@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">HildaSubmission</string>
+    <string name="title">Judul Novel</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail_novel">Detail Novel</string>
+    <string name="name"><b>Hilda Khoirotul Hidayah</b></string>
+    <string name="email"><b>a066dky3857@bangkit.academy</b></string>
+    <string name="about">About</string>
+    <string name="author">Tere Liye</string>
+    <string name="book_author">Penulis</string>
+    <string name="book_isbn">ISBN</string>
+    <string name="book_publisher">Penerbit</string>
+    <string name="book_page">Jumlah Halaman</string>
+    <string name="book_size">Ukuran Buku</string>
+
+    <string-array name="book_name">
+        <item>Bintang</item>
+        <item>Bulan</item>
+        <item>Bumi</item>
+        <item>Hujan</item>
+        <item>Janji</item>
+        <item>Negeri Para Bedebah</item>
+        <item>Pulang Pergi</item>
+        <item>Rembulan Terbenam di Wajahmu</item>
+        <item>Rindu</item>
+        <item>Tentang Kamu</item>
+    </string-array>
+
+    <string-array name="isbn">
+        <item>9786020351179</item>
+        <item>9786239726287</item>
+        <item>9786239726263</item>
+        <item>9786020324784</item>
+        <item>97862397201</item>
+        <item>9789797945497</item>
+        <item>9786239554521</item>
+        <item>9789791102463</item>
+        <item>9786239554552</item>
+        <item>9786020822341</item>
+    </string-array>
+
+    <string-array name="publisher">
+        <item>Gramedia Pustaka Utama</item>
+        <item>PENERBIT SABAK GRIP</item>
+        <item>Grasindo</item>
+        <item>Pustaka Arafah</item>
+        <item>Sabakgrip</item>
+        <item>Media Kita</item>
+        <item>Tiga Serangkai</item>
+        <item>Republika</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Risalah</item>
+    </string-array>
+    
+    <string-array name="total_page">
+        <item>392 halaman</item>
+        <item>400 halaman</item>
+        <item>440 halaman</item>
+        <item>332 halaman</item>
+        <item>488 halaman</item>
+        <item>433 halaman</item>
+        <item>417 halaman</item>
+        <item>426 halaman</item>
+        <item>544 halaman</item>
+        <item>524 halaman</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>13,5 cm x 20 cm</item>
+        <item>14,0 cm x 21 cm</item>
+        <item>13 cm x 20 cm</item>
+        <item>15 cm x 23,5 cm</item>
+        <item>14 cm x 20 cm</item>
+        <item>13,5 cm x 21 cm</item>
+        <item>14 cm x 21 cm</item>
+        <item>13,5 cm x 20,5 cm</item>
+        <item>13 cm x 20 cm</item>
+        <item>14 cm x 21 cm</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Pada novel ini, Ali, Raib, dan Seli masih melanjutkan misinya di klan Bintang. Apa misi yang akan mereka lakukan? Misi yang hendak mereka kerjakan adalah mencoba untuk menyelamatkan manusia yang berada di klan Bumi. Akan tetapi, yang menjadi permasalahan mereka, yaitu mereka bertiga harus mendapatkan dan melakukan pencegahan pada pasak klan Bumi yang akan segera meledak. Dalam memenuhi tujuan dan misi tersebut, Ali, Raib, dan Seli dihadapkan pada berbagai macam pertarungan dan rintangan yang rumit. Penasaran dengan pertarungan yang hendak mereka hadapi bersama? Apakah mereka berhasil menemukan pasak dari klan tersebut? Temukan jawabannya dalam novel Bintang!</item>
+        <item>Novel kedua dari serial Bumi, yaitu Bulan. Novel ini pertama kali diterbitkan pada tahun 2015. Novel setebal 440 halaman ini, kembali mengisahkan terkait pengalaman dari 3 sahabat, yaitu Raib, Seli, dan Ali yang berpetualang dan menjelajahi klan lain, yaitu klan Matahari. Mereka bertiga pergi ke klan Matahari guna menyatukan klan Matahari dengan klan Bulan. Penjelajahan mereka pada novel kedua serial Bumi ini bermula dari tujuan mereka untuk mempersatukan antara klan Bulan dan klan Matahari. Pada awalnya, penjelajahan mereka semacam perjalanan politik. Akan tetapi, siapa yang mengira bahwa Ali, Seli, dan Raib justru dilibatkan dengan perburuan bunga. Bunga tersebut dapat mengabulkan permintaan orang yang berhasil mendapatkannya saat pertama kali bunga itu mekar. Penjelajahan mereka amatlah panjang, hingga membawa mereka, yaitu Ali, Raib, dan Seli berjumpa dengan banyak tokoh baru dan berbagai pertarungan yang terjadi antara mereka bertiga dan berbagai tokoh tersebut. Hal itu menjadi sebuah penjelajahan dan petualangan politik menakjubkan yang dilalui oleh mereka.</item>
+        <item>Novel Bumi adalah buku pertama dari serial Bumi yang diterbitkan pertama kali pada tahun 2014 lalu. Di novel pertama ini tentang awal dari kisah seorang gadis remaja SMA bernama Raib dapat bertemu dengan sosok kurus tinggi, yakni Tamus. Pada saat itu, makhluk kurus dan tinggi itu tiba-tiba hadir di dalam cermin kamar Raib. Tak hanya itu, banyak berbagai keanehan yang ia alami, sampai akhirnya Raib pun merasakan dan menyadari bahwa dirinya mempunyai kemampuan yang istimewa. Beberapa peristiwa atau kejadian aneh itu diawali dengan kasus robohnya tower listrik yang berada di belakang sekolahnya, sampai pertemuannya dengan makhluk tidak terduga yang kemudian membawanya ke klan Bulan, yaitu dunia paralel yang kehidupan di dalamnya berdampingan dengan klan Bumi. Selain itu, memang secara keseluruhan, novel pertama dari serial Bumi ini menceritakan awal pertemuan Raib, Seli, dan Ali yang mana hingga akhirnya mereka bertiga menjadi sahabat yang akan berjelajah dan berpetualang di dunia paralel</item>
+        <item>Novel Hujan berawal dari pertemuan antara kedua orang anak bernama Esok dan Lail di tahun 2042 sesudah gunung meletus. Di samping itu, ada seorang perempuan bernama Maryam yang menjadi teman dekat atau bisa dikatakan sahabat Lail. Akibat letusan gunung yang sangat menggemparkan dan memorakporandakan hampir seluruh isi bumi, bahkan hanya menyisakan 10% populasi manusia. Tak hanya itu, cuaca dan iklim yang terjadi di bumi juga semakin kacau. Esok mempunyai nama lengkap, yaitu Soke Bahtera merupakan anak muda yang sangat genius. Saat berusia 16 tahun, dirinya berpindah ke ibu kota guna menyelesaikan sekolahnya. Hingga akhirnya, untuk pertama kalinya ia dapat menciptakan mobil terbang. Lail merupakan sosok wanita sederhana yang tinggal di panti sosial dan menjadi seorang relawan kemanusiaan, serta menjalankan pendidikan di sekolah perawat. Lail menyimpan rasa yang tidak biasa pada Esok selama bertahun-tahun, tetapi ia tak dapat mengungkapkan perasaan tersebut. Esok dengan segala kesibukannya tidak mempunyai waktu luang untuk sekadar menghubungi atau bertemu Lail.</item>
+        <item>Buku ini akan mengisahkan tokoh seorang Bahar yang merupakan seseorang yang tidak lulus sekolah, memiliki perangai buruk namun ia mampu berubah menjadi sosok yang dekat di hati orang-orang sekitarnya di masa hidupnya dan bahkan sosok tokoh Bahar ini cocok sebagai diinterpretasikan dalam kisah buku  ini bernama Bahar Sadar, bahar yang memiliki arti laut. Bahar memiliki kelapanhgna hati yang digambarkan dalam dalamnya lautan yang tak dapat diukur oleh kita. Safar yang memiliki arti perjalanan dan perjalanan disini digambarkan bagaimana kisah hidupnya di dalam kisah buku ini yang tidak selalu digambarkan lurus namun juga ada belokan, naik serta turunnya kehidupan ini.</item>
+        <item>Novel ini terbit pada tahun 2012 lalu. Secara tak langsung, novel ini mengangkat kisah dunia perpolitikan di Indonesia. Tak hanya itu, novel Negeri Para Bedebah mengusung tema perekonomian global, rekayasa keuangan, mafia hukum, dan hal-hal ‘mengerikan’. Cerita ini berawal dari Thomas, yakni tokoh sentral dari keseluruhan kisah di dalam novel ini. Masa kecil Thomas cukup gelap, orang tuanya telah meninggal dibakar massa. Hal itu karena mereka menentang keras ‘Arisan Berantai’ yang dibangun oleh omnya, Liem Soerja dan papanya, Edward. Liem adalah orang yang memiliki ambisi untuk mendirikan bisnis keluar yang besar, hingga akhirnya harus berakhir di tengah jalan, sementara Edward cenderung pendiam meskipun tetap membuntuti ide dari Liem. Menariknya dari novel ini sebenarnya terletak pada latar waktu yang hanya dua hari. Hal itu disebabkan alur ceritanya yang cepat dan padat. Bisa dikatakan, dua hari merupakan waktu yang singkat bagi tokoh Thomas dalam melindungi Bank Semesta milik Om Liem.</item>
+        <item>Novel Pulang-Pergi merupakan novel ke-3 dari serial novel Pulang yang mengisahkan Bujang, si babi hutan. Novel bergenre action ini, terbit pada Januari 2021. Adapun awal novel Pulang-Pergi, yaitu saat Bujang berada di kuburan Mamak sembari mengenang masa lalu. Sampai ia menerima pesan untuk menghadiri agenda pertunangannya dengan Maria. Maria merupakan putri dari seorang ketua Shadow Economy yang telah ditaklukkannya ketika bertarung dalam novel Pergi. Karena kalah, Maria memberikan gelang kepada Bujang dan mengatakan bahwa dirinya akan menikahi Bujang. Bujang berupaya untuk mengulur waktu dan meminta tolong pada Salonga agar menunda acara tersebut sebab Bujang belum siap untuk bertunangan. Akhirnya, ia pun bergegas ke Rusia untuk membicarakan hal tersebut. Singkat cerita, di sana terjadi aksi kejar-kejaran, pembunuhan, pengkhianatan, dan sebagainya.</item>
+        <item>Seperti karya Tere Liye sebelumnya, novel Rembulan Tenggelam di Wajahmu mengusung tema makna kehidupan beserta problematikanya. Novel ini merepresentasikan bahwa kehidupan ini merupakan rangkaian peristiwa yang saling bertaut antara satu dan lainnya. Adapun novel Rembulan Tenggelam di Wajahmu ini mengisahkan kehidupan seorang anak bernama Ray yang mempunyai lima pertanyaan dalam hidupnya. Ia adalah seorang anak yatim piatu yang tinggal di sebuah panti asuhan. Akan tetapi, selama dirinya menetap di sana, ia merasakan ketidaknyamanan karena penjaga pantinya yang bertindak semena-mena pada anak-anak panti. Hingga akhirnya, saat itu Ray membuat suatu keputusan, yakni pergi dari panti asuhan itu, tempat di mana sedari kecil ia tumbuh dan berkembang di dalamnya.</item>
+        <item>Akan menceritakan tentang perjalanan yang panjang dengan sebuah kerinduan, akan bertemakan zaman penjajahan belanda di tanggal 1 desember 1938 dimana dalam sejarah kita Makassar yang untuk pertama kalinya dimunculkan oleh kedatangan kapal uap yang sangat besar pada zamannya. Tertulis sangat besar “Blitar Holland” di lambung kapal uap tersebut, saat itu tidak ada yang bisa menandingi tingginya menara uap dari kapal tersebut. Saat itulah dimulai perjalanan dengan rasa rindu yang banyak menimbun beban di dalam hati. Akan menceritakan mengenai sejarah nusantara, serta banyak tokoh dan juga kisah yang pertanyaan seputar masa lalu, takdir, kemunafikan, kebencian, kehilangan dan juga cinta.</item>
+        <item>Tentang Kamu, novel dengan tokoh utama bernama Zaman Zulkarnaen. Ia merupakan lulusan magister hukum di Oxford University. Zaman bekerja di sebuah firma hukum, tepatnya di Belgrave, London. Suatu hari, Zaman dipanggil oleh atasannya untuk menyelesaikan sebuah kasus dari sang klien. Kasus tersebut adalah persoalan harta warisan yang ditinggalkan oleh kliennya yang belum lama meninggal dunia. Setelah diselidiki, harta warisan yang ditinggalkan ini jumlahnya sangatlah mencengangkan, yaitu 1% saham perusahaan besar yang apabila diukur dengan kurs poundsterling, bernilai satu miliar atau setara dengan 19 triliun rupiah. Klien yang meninggalkan harta warisan bernilai besar itu namanya Sri Ningsih yang rupanya memiliki kewarganegaraan sama seperti Zaman, yakni Indonesia. Namun, data diri dari Sri Ningsih sangatlah sukar untuk ditemui, bahkan ia tidak meninggalkan surat wasiat sama sekali. Dengan begitu, akan sulit untuk mencari ahli warisnya yang berwenang menerima warisan dari Sri Ningsih.</item>
+    </string-array>
+
+    <integer-array name="novel_cover">
+        <item>@drawable/bintang</item>
+        <item>@drawable/bulan</item>
+        <item>@drawable/bumi</item>
+        <item>@drawable/hujan</item>
+        <item>@drawable/janji</item>
+        <item>@drawable/negeri</item>
+        <item>@drawable/pulangpergi</item>
+        <item>@drawable/rembulan</item>
+        <item>@drawable/rindu</item>
+        <item>@drawable/tentangkamu</item>
+    </integer-array>
+
+    <style name="SplashScreenStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>
